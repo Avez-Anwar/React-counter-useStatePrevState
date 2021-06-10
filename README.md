@@ -1,2 +1,2 @@
-# React-counter-useStatePrevState
+# React-counter-usingPrevState
 Created with CodeSandbox
